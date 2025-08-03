@@ -1,0 +1,2738 @@
+[
+  {
+    "Customer_Name_AR": "شركة الصالة الاقتصادية للتجارة - جدة",
+    "Customer_Code": "2106"
+  },
+  {
+    "Customer_Name_AR": "تموينات ابو نايف - القريات",
+    "Customer_Code": "4009"
+  },
+  {
+    "Customer_Name_AR": "تموينات الحياة - القريات",
+    "Customer_Code": "4010"
+  },
+  {
+    "Customer_Name_AR": "تموينات النورس - الخمرة",
+    "Customer_Code": "4012"
+  },
+  {
+    "Customer_Name_AR": "شركة ازهار الباسم التجارية - الرياض",
+    "Customer_Code": "24050"
+  },
+  {
+    "Customer_Name_AR": "شركة ازهار البلسم للتجارة - الرياض",
+    "Customer_Code": "25090"
+  },
+  {
+    "Customer_Name_AR": "شركة مدار القادسية للتجارة - الرياض",
+    "Customer_Code": "26014"
+  },
+  {
+    "Customer_Name_AR": "مركز سارة للتجارة (حلويات-غذائية) - النزلة",
+    "Customer_Code": "2013"
+  },
+  {
+    "Customer_Name_AR": "ابو ظافر - نقليات",
+    "Customer_Code": "1050"
+  },
+  {
+    "Customer_Name_AR": "ابو ماجد للعصيرات - الرياض",
+    "Customer_Code": "24011"
+  },
+  {
+    "Customer_Name_AR": "ارخص الاسعار للمواد الغذائية والحويات المخفضة - مكة المكرمة",
+    "Customer_Code": "6054"
+  },
+  {
+    "Customer_Name_AR": "اسواق الحسين الاقتصادية - القطيف",
+    "Customer_Code": "25077"
+  },
+  {
+    "Customer_Name_AR": "اسواق الحسين الاقتصادية التجارية - القطيف",
+    "Customer_Code": "42027"
+  },
+  {
+    "Customer_Name_AR": "اسواق الركن الاوفر -المدينة المنورة",
+    "Customer_Code": "28001"
+  },
+  {
+    "Customer_Name_AR": "اسواق الريف للعروض التجارية - جدة",
+    "Customer_Code": "2210"
+  },
+  {
+    "Customer_Name_AR": "اسواق الزاوية المنافسة للمواد الغذائية - جدة",
+    "Customer_Code": "2200"
+  },
+  {
+    "Customer_Name_AR": "اسواق السلة الدائمة للمواد الغذائية - المحاميد",
+    "Customer_Code": "2199"
+  },
+  {
+    "Customer_Name_AR": "اسواق المملكة الاقتصادية - جيزان",
+    "Customer_Code": "11038"
+  },
+  {
+    "Customer_Name_AR": "اسواق ثمار ليمونة للتجارة - الرياض",
+    "Customer_Code": "24522"
+  },
+  {
+    "Customer_Name_AR": "اسواق حبات اللوز المركزية - الرياض",
+    "Customer_Code": "24051"
+  },
+  {
+    "Customer_Name_AR": "اسواق رباعيات التوفير للتجارة - تجميل",
+    "Customer_Code": "3167"
+  },
+  {
+    "Customer_Name_AR": "اسواق رباعيات التوفير للتجارة حلويات - جدة",
+    "Customer_Code": "2403"
+  },
+  {
+    "Customer_Name_AR": "اسواق رواد المشاهير للتجارة - جيزان",
+    "Customer_Code": "11031"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعيد عثمان الغامدي (مركز عزام للمواد الغذائية) - مكة المكرمة",
+    "Customer_Code": "6038"
+  },
+  {
+    "Customer_Name_AR": "اسواق وائل الاقتصادية - وادي الدواسر",
+    "Customer_Code": "25139"
+  },
+  {
+    "Customer_Name_AR": "اسواق ومنتزهات سما الرياض التجارية - الرياض",
+    "Customer_Code": "24083"
+  },
+  {
+    "Customer_Name_AR": "اسواق ينابع التوفير للمواد الغذائية - تبوك",
+    "Customer_Code": "29013"
+  },
+  {
+    "Customer_Name_AR": "استراحة الاصدقاء للرحلات - الرياض",
+    "Customer_Code": "24559"
+  },
+  {
+    "Customer_Name_AR": "الراية للتجارة - الرياض",
+    "Customer_Code": "24580"
+  },
+  {
+    "Customer_Name_AR": "البركات التجارية - مكة المكرمة",
+    "Customer_Code": "6064"
+  },
+  {
+    "Customer_Name_AR": "التموين الحديث للمواد الغذائية - الرياض",
+    "Customer_Code": "24546"
+  },
+  {
+    "Customer_Name_AR": "التموين السعودي - الرياض",
+    "Customer_Code": "24110"
+  },
+  {
+    "Customer_Name_AR": "التموين النموذجي - جدة",
+    "Customer_Code": "2103"
+  },
+  {
+    "Customer_Name_AR": "الحصان للعطور - الرياض",
+    "Customer_Code": "24535"
+  },
+  {
+    "Customer_Name_AR": "الدانوب - جدة",
+    "Customer_Code": "2100"
+  },
+  {
+    "Customer_Name_AR": "الدانوب - الرياض",
+    "Customer_Code": "24000"
+  },
+  {
+    "Customer_Name_AR": "الدانوب - مكة المكرمة",
+    "Customer_Code": "6003"
+  },
+  {
+    "Customer_Name_AR": "الدانوب - المدينة المنورة",
+    "Customer_Code": "28000"
+  },
+  {
+    "Customer_Name_AR": "الريان للمواد الغذائية - جدة",
+    "Customer_Code": "2104"
+  },
+  {
+    "Customer_Name_AR": "السعودية للاسواق - الرياض",
+    "Customer_Code": "24059"
+  },
+  {
+    "Customer_Name_AR": "السلمي للالكترونيات - جدة",
+    "Customer_Code": "2105"
+  },
+  {
+    "Customer_Name_AR": "الفوزان للتجارة - الرياض",
+    "Customer_Code": "24052"
+  },
+  {
+    "Customer_Name_AR": "القوافل الحديثة للتجارة - جدة",
+    "Customer_Code": "2101"
+  },
+  {
+    "Customer_Name_AR": "المخازن الكبرى - جدة",
+    "Customer_Code": "2108"
+  },
+  {
+    "Customer_Name_AR": "المنجم للمواد الغذائية - جدة",
+    "Customer_Code": "2107"
+  },
+  {
+    "Customer_Name_AR": "المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24089"
+  },
+  {
+    "Customer_Name_AR": "النايفات للحلويات - جدة",
+    "Customer_Code": "2109"
+  },
+  {
+    "Customer_Name_AR": "اليمامة - الرياض",
+    "Customer_Code": "24090"
+  },
+  {
+    "Customer_Name_AR": "تموينات البركة - الرياض",
+    "Customer_Code": "24109"
+  },
+  {
+    "Customer_Name_AR": "تموينات الحياة - الرياض",
+    "Customer_Code": "24058"
+  },
+  {
+    "Customer_Name_AR": "تموينات الرياض - الرياض",
+    "Customer_Code": "24057"
+  },
+  {
+    "Customer_Name_AR": "تموينات السنابل - الرياض",
+    "Customer_Code": "24056"
+  },
+  {
+    "Customer_Name_AR": "تموينات الفرحان - الرياض",
+    "Customer_Code": "24055"
+  },
+  {
+    "Customer_Name_AR": "تموينات المنصور - الرياض",
+    "Customer_Code": "24054"
+  },
+  {
+    "Customer_Name_AR": "تموينات الوفاء - الرياض",
+    "Customer_Code": "24053"
+  },
+  {
+    "Customer_Name_AR": "تموينات باسل - الرياض",
+    "Customer_Code": "24053"
+  },
+  {
+    "Customer_Name_AR": "تموينات بدر - الرياض",
+    "Customer_Code": "24060"
+  },
+  {
+    "Customer_Name_AR": "تموينات جمال - الرياض",
+    "Customer_Code": "24061"
+  },
+  {
+    "Customer_Name_AR": "تموينات خالد - الرياض",
+    "Customer_Code": "24062"
+  },
+  {
+    "Customer_Name_AR": "تموينات خالد الزهراني - جدة",
+    "Customer_Code": "24062"
+  },
+  {
+    "Customer_Name_AR": "تموينات خليفة - الرياض",
+    "Customer_Code": "24063"
+  },
+  {
+    "Customer_Name_AR": "تموينات عبدالله - الرياض",
+    "Customer_Code": "24064"
+  },
+  {
+    "Customer_Name_AR": "تموينات عمر - الرياض",
+    "Customer_Code": "24065"
+  },
+  {
+    "Customer_Name_AR": "تموينات فهد - الرياض",
+    "Customer_Code": "24066"
+  },
+  {
+    "Customer_Name_AR": "تموينات ناصر - الرياض",
+    "Customer_Code": "24067"
+  },
+  {
+    "Customer_Name_AR": "تموينات نوال - الرياض",
+    "Customer_Code": "24068"
+  },
+  {
+    "Customer_Name_AR": "تموينات وائل - الرياض",
+    "Customer_Code": "24069"
+  },
+  {
+    "Customer_Name_AR": "تموينات يوسف - الرياض",
+    "Customer_Code": "24070"
+  },
+  {
+    "Customer_Name_AR": "خالد للتموين - الرياض",
+    "Customer_Code": "24071"
+  },
+  {
+    "Customer_Name_AR": "سعد للتموين - الرياض",
+    "Customer_Code": "24072"
+  },
+  {
+    "Customer_Name_AR": "سالم للتموين - الرياض",
+    "Customer_Code": "24073"
+  },
+  {
+    "Customer_Name_AR": "شركة ابناء عبدالله العثيم القابضة - الرياض",
+    "Customer_Code": "24074"
+  },
+  {
+    "Customer_Name_AR": "شركة اسواق العثيم - الرياض",
+    "Customer_Code": "24075"
+  },
+  {
+    "Customer_Name_AR": "شركة اسواق عبد العزيز العثيم - الرياض",
+    "Customer_Code": "24076"
+  },
+  {
+    "Customer_Name_AR": "شركة العثيم التجارية - الرياض",
+    "Customer_Code": "24077"
+  },
+  {
+    "Customer_Name_AR": "شركة العثيم للاغذية - الرياض",
+    "Customer_Code": "24078"
+  },
+  {
+    "Customer_Name_AR": "شركة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24079"
+  },
+  {
+    "Customer_Name_AR": "شركة المزرعة الحديثة للتجارة - الرياض",
+    "Customer_Code": "24080"
+  },
+  {
+    "Customer_Name_AR": "شركة المزرعة للتجارة - الرياض",
+    "Customer_Code": "24081"
+  },
+  {
+    "Customer_Name_AR": "شركة المزرعة الحديثة للمواد الغذائية - الرياض",
+    "Customer_Code": "24082"
+  },
+  {
+    "Customer_Name_AR": "مخازن السعيد - الرياض",
+    "Customer_Code": "24084"
+  },
+  {
+    "Customer_Name_AR": "مخازن السلمي - الرياض",
+    "Customer_Code": "24085"
+  },
+  {
+    "Customer_Name_AR": "مخازن العثيم - الرياض",
+    "Customer_Code": "24086"
+  },
+  {
+    "Customer_Name_AR": "مخازن الفوزان - الرياض",
+    "Customer_Code": "24087"
+  },
+  {
+    "Customer_Name_AR": "مخازن المنجم - الرياض",
+    "Customer_Code": "24088"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة محمد ابراهيم الشويش للتجارة - الرياض",
+    "Customer_Code": "24091"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة ابراهيم الشويش للتجارة - الرياض",
+    "Customer_Code": "24092"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة التجارية - الرياض",
+    "Customer_Code": "24093"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد التجارية - الرياض",
+    "Customer_Code": "24094"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم التجارية - الرياض",
+    "Customer_Code": "24095"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان التجارية - الرياض",
+    "Customer_Code": "24096"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم التجارية - الرياض",
+    "Customer_Code": "24097"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات التجارية - الرياض",
+    "Customer_Code": "24098"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24099"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24100"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24101"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24102"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24103"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24104"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24105"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24106"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24107"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24108"
+  },
+  {
+    "Customer_Name_AR": "اليمامة للتجارة - الرياض",
+    "Customer_Code": "24111"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السنابل للمواد الغذائية - الرياض",
+    "Customer_Code": "24112"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفرحان للمواد الغذائية - الرياض",
+    "Customer_Code": "24113"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنصور للمواد الغذائية - الرياض",
+    "Customer_Code": "24114"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الوفاء للمواد الغذائية - الرياض",
+    "Customer_Code": "24115"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة باسل للمواد الغذائية - الرياض",
+    "Customer_Code": "24116"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة بدر للمواد الغذائية - الرياض",
+    "Customer_Code": "24117"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة جمال للمواد الغذائية - الرياض",
+    "Customer_Code": "24118"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة خالد للمواد الغذائية - الرياض",
+    "Customer_Code": "24119"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة خليفة للمواد الغذائية - الرياض",
+    "Customer_Code": "24120"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة عبدالله للمواد الغذائية - الرياض",
+    "Customer_Code": "24121"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة عمر للمواد الغذائية - الرياض",
+    "Customer_Code": "24122"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة فهد للمواد الغذائية - الرياض",
+    "Customer_Code": "24123"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة ناصر للمواد الغذائية - الرياض",
+    "Customer_Code": "24124"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة نوال للمواد الغذائية - الرياض",
+    "Customer_Code": "24125"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة وائل للمواد الغذائية - الرياض",
+    "Customer_Code": "24126"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة يوسف للمواد الغذائية - الرياض",
+    "Customer_Code": "24127"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة خالد للتموين - الرياض",
+    "Customer_Code": "24128"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة سعد للتموين - الرياض",
+    "Customer_Code": "24129"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة سالم للتموين - الرياض",
+    "Customer_Code": "24130"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق اليمامة - الرياض",
+    "Customer_Code": "24131"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق السعيد - الرياض",
+    "Customer_Code": "24132"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق العثيم - الرياض",
+    "Customer_Code": "24133"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق الفوزان - الرياض",
+    "Customer_Code": "24134"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق المنجم - الرياض",
+    "Customer_Code": "24135"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق النايفات - الرياض",
+    "Customer_Code": "24136"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق اليمامة للتجارة - الرياض",
+    "Customer_Code": "24137"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق السعيد للتجارة - الرياض",
+    "Customer_Code": "24138"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق العثيم للتجارة - الرياض",
+    "Customer_Code": "24139"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق الفوزان للتجارة - الرياض",
+    "Customer_Code": "24140"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق المنجم للتجارة - الرياض",
+    "Customer_Code": "24141"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اسواق النايفات للتجارة - الرياض",
+    "Customer_Code": "24142"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24143"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24144"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24145"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24146"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24147"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24148"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24149"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24150"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24151"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24152"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24153"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24154"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24155"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24156"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24157"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24158"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24159"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24160"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24161"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24162"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24163"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24164"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24165"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24166"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24167"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24168"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24169"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24170"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي - مكة",
+    "Customer_Code": "6051"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي - مكة",
+    "Customer_Code": "2206"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي مواد غذائية - جدة",
+    "Customer_Code": "24515"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي شرق الرياض - الرياض",
+    "Customer_Code": "11073"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي غرب الرياض - الرياض",
+    "Customer_Code": "11074"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي الجنوب - الرياض",
+    "Customer_Code": "24510"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي السلام - جدة",
+    "Customer_Code": "2305"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي الأجواد - جدة",
+    "Customer_Code": "24513"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي شارع فلسطين - جدة",
+    "Customer_Code": "2269"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي الأمير فواز - مكة",
+    "Customer_Code": "2306"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي الورود - جدة",
+    "Customer_Code": "24514"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي طريق الكعكية - مكة",
+    "Customer_Code": "24508"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي النزهة - جدة",
+    "Customer_Code": "2259"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي الجامعة - مكة",
+    "Customer_Code": "2265"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حارة اليمن - جدة",
+    "Customer_Code": "24517"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سنيدي حي السلامة - جدة",
+    "Customer_Code": "24509"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سمية خالد القحطاني - الطائف",
+    "Customer_Code": "3103"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سلطان العتيبي - الرياض",
+    "Customer_Code": "24003"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سارة عبد الله - الرياض",
+    "Customer_Code": "2217"
+  },
+  {
+    "Customer_Name_AR": "اسواق سعودية سارة بنت العنزي - جدة",
+    "Customer_Code": "2052"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة سنيدي التجارية - جدة",
+    "Customer_Code": "26024"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24501"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24502"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24503"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24504"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24505"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24506"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24507"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24508"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24509"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24510"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24511"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24512"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24513"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24514"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24515"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24516"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24517"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24518"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24519"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24520"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24521"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24522"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24523"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24524"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24525"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24526"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24527"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24528"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24529"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24530"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24531"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24532"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24533"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24534"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24535"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24536"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24537"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24538"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24539"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24540"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24541"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24542"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24543"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24544"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24545"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24546"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24547"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24548"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24549"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24550"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24551"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24552"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24553"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24554"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24555"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24556"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24557"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24558"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24559"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24560"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24561"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24562"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24563"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24564"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24565"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24566"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24567"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24568"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24569"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24570"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24571"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24572"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24573"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24574"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24575"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24576"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24577"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24578"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24579"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24580"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24581"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24582"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24583"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24584"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24585"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24586"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24587"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24588"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24589"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24590"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24591"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24592"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24593"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24594"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24595"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24596"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24597"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24598"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24599"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24600"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24601"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24602"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24603"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24604"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24605"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24606"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24607"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24608"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24609"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24610"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24611"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24612"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24613"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24614"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24615"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24616"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24617"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24618"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24619"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24620"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24621"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24622"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24623"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24624"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24625"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24626"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24627"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24628"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24629"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24630"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24631"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24632"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24633"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24634"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24635"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24636"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24637"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24638"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24639"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24640"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24641"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24642"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24643"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24644"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24645"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24646"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24647"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24648"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24649"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24650"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24651"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24652"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24653"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24654"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24655"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24656"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24657"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24658"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24659"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24660"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24661"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24662"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24663"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24664"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24665"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24666"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24667"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24668"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24669"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24670"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24671"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24672"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24673"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24674"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24675"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24676"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24677"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24678"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24679"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24680"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24681"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24682"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24683"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24684"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24685"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24686"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24687"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24688"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24689"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24690"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24691"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24692"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24693"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24694"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24695"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24696"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24697"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24698"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24699"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24700"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24701"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24702"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24703"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24704"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24705"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24706"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24707"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24708"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24709"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24710"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24711"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24712"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24713"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24714"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24715"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24716"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24717"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24718"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24719"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24720"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24721"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24722"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24723"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24724"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24725"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24726"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24727"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24728"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24729"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24730"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24731"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24732"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24733"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24734"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24735"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24736"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24737"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24738"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24739"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24740"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24741"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24742"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24743"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24744"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24745"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24746"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24747"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24748"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24749"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24750"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24751"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24752"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24753"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24754"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24755"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24756"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24757"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24758"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24759"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24760"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24761"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24762"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24763"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24764"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24765"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24766"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24767"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24768"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24769"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24770"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24771"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24772"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24773"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24774"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24775"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24776"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24777"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24778"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24779"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24780"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24781"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24782"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24783"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24784"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24785"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24786"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24787"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24788"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24789"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24790"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24791"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24792"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24793"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24794"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24795"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24796"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24797"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24798"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24799"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24800"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24801"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24802"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24803"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24804"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24805"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24806"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24807"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24808"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24809"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24810"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24811"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24812"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24813"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24814"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24815"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24816"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24817"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24818"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24819"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24820"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24821"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24822"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24823"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24824"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24825"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24826"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24827"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24828"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24829"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24830"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24831"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24832"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24833"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24834"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24835"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24836"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24837"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24838"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24839"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24840"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24841"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24842"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24843"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24844"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24845"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24846"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24847"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24848"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24849"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24850"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24851"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24852"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24853"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24854"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24855"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24856"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24857"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24858"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24859"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24860"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24861"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24862"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24863"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24864"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24865"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24866"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24867"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24868"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24869"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24870"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24871"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24872"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24873"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24874"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24875"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24876"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24877"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24878"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24879"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24880"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24881"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24882"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24883"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24884"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24885"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24886"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24887"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24888"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24889"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24890"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24891"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24892"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24893"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24894"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24895"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24896"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24897"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24898"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24899"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24900"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24901"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24902"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24903"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24904"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24905"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24906"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24907"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24908"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24909"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24910"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24911"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24912"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24913"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24914"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24915"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24916"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24917"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24918"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24919"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24920"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24921"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24922"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24923"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24924"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24925"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24926"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24927"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24928"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24929"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24930"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24931"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24932"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24933"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24934"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24935"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24936"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24937"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24938"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24939"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24940"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24941"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24942"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24943"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24944"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24945"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24946"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24947"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24948"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24949"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24950"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24951"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24952"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24953"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24954"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24955"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24956"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24957"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24958"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24959"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24960"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24961"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24962"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24963"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24964"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24965"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24966"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24967"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24968"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24969"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24970"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24971"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24972"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24973"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24974"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24975"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24976"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24977"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24978"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24979"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24980"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24981"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "24982"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للتجارة - الرياض",
+    "Customer_Code": "24983"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للتجارة - الرياض",
+    "Customer_Code": "24984"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للتجارة - الرياض",
+    "Customer_Code": "24985"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للتجارة - الرياض",
+    "Customer_Code": "24986"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للتجارة - الرياض",
+    "Customer_Code": "24987"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للتجارة - الرياض",
+    "Customer_Code": "24988"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للاسواق - الرياض",
+    "Customer_Code": "24989"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للاسواق - الرياض",
+    "Customer_Code": "24990"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للاسواق - الرياض",
+    "Customer_Code": "24991"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للاسواق - الرياض",
+    "Customer_Code": "24992"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للاسواق - الرياض",
+    "Customer_Code": "24993"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للاسواق - الرياض",
+    "Customer_Code": "24994"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة اليمامة للمواد الغذائية - الرياض",
+    "Customer_Code": "24995"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة السعيد للمواد الغذائية - الرياض",
+    "Customer_Code": "24996"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة العثيم للمواد الغذائية - الرياض",
+    "Customer_Code": "24997"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة الفوزان للمواد الغذائية - الرياض",
+    "Customer_Code": "24998"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة المنجم للمواد الغذائية - الرياض",
+    "Customer_Code": "24999"
+  },
+  {
+    "Customer_Name_AR": "مؤسسة النايفات للمواد الغذائية - الرياض",
+    "Customer_Code": "25000"
+  }
+]

@@ -1,0 +1,163 @@
+/* 🌐 الخطوط والأساس العام */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
+body {
+  font-family: 'Cairo', 'Inter', sans-serif;
+  background-color: #f3f4f6;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+
+/* 🧾 تنسيق الحاوية */
+.container {
+  background-color: #ffffff;
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  width: 100%;
+  margin-top: 2rem;
+  animation: fadeInContainer 0.5s ease-in-out;
+}
+
+/* 🧠 تأثير دخول النموذج */
+@keyframes fadeInContainer {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 🧰 تنسيق الحقول */
+.form-group label {
+  font-weight: 600;
+  color: #374151;
+  display: block;
+  margin-bottom: 0.5rem;
+  text-align: right; /* محاذاة النص لليمين */
+}
+
+.form-group input[type="text"],
+.form-group input[type="date"],
+.form-group input[type="time"],
+.form-group input[type="number"],
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  color: #374151;
+  background-color: #f9fafb;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  text-align: right; /* محاذاة النص لليمين */
+}
+
+.form-group input[type="text"]:focus,
+.form-group input[type="date"]:focus,
+.form-group input[type="time"]:focus,
+.form-group input[type="number"]:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #4f46e5;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.2);
+}
+
+.form-group textarea {
+  resize: vertical; /* السماح بتغيير حجم مربع النص عمودياً */
+}
+
+/* 🔘 أزرار الفئات للمنتجات */
+.category-button {
+  @apply bg-blue-100 text-blue-800 py-2 px-4 rounded-lg cursor-pointer text-center font-medium transition-colors duration-200 shadow-sm;
+  @apply hover:bg-blue-200;
+  @apply peer-checked:bg-blue-600 peer-checked:text-white peer-checked:shadow-md;
+  white-space: nowrap; /* منع التفاف النص */
+  overflow: hidden; /* إخفاء النص الزائد */
+  text-overflow: ellipsis; /* إضافة نقاط (...) للنص الزائد */
+}
+
+/* 📦 تنسيق عنصر المنتج */
+.product-item {
+  @apply bg-white p-4 rounded-lg shadow-sm flex items-center justify-between border border-gray-200;
+}
+
+.radio-group label {
+  @apply inline-flex items-center text-gray-700;
+  margin-bottom: 0; /* Override default form-group label margin */
+}
+
+.radio-group input[type="radio"] {
+  @apply form-radio h-4 w-4;
+  margin-right: 0.5rem; /* مسافة بين الراديو والنص */
+  margin-left: 0; /* إزالة أي هامش أيسر قد يكون موجودًا */
+}
+
+/* 🚀 زر الإرسال */
+.btn-primary {
+  @apply bg-indigo-700 text-white font-bold py-3 px-8 rounded-lg text-lg shadow-lg transition-all duration-300;
+  @apply hover:bg-indigo-800 hover:shadow-xl;
+  @apply focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-opacity-50;
+  @apply disabled:opacity-50 disabled:cursor-not-allowed; /* تنسيق زر معطل */
+  display: inline-flex; /* لتمكين السبينر بجانبه */
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border: none;
+}
+
+.btn-primary:active {
+  background-color: #3730a3;
+  transform: translateY(0);
+}
+
+/* 🔄 سبينر التحميل */
+.loading-spinner {
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-top: 4px solid #fff;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  animation: spin 1s linear infinite;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* 📱 تحسين للموبايل */
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem;
+    margin-top: 1rem;
+  }
+  .btn-primary {
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+  }
+  .product-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .radio-group {
+    width: 100%;
+    justify-content: space-around;
+  }
+}
+
+/* تنسيق حقول الجرد الاستثنائي */
+/* هذا هو التعديل الذي تم إضافته لزيادة عرض حقل الكمية */
+#inventoryItemsContainer .inventory-item .form-group input[name="Inventory_Quantity"] {
+  width: 100%;
+}
