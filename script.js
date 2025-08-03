@@ -236,11 +236,11 @@ function addInventoryItem() {
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div class="form-group">
           <label>البحث عن المنتج</label>
-          <input type="text" name="Inventory_Product_Name_AR" list="inventoryList" placeholder="ابحث..." required />
+          <input type="text" name="Inventory_Product_Name_AR" list="inventoryList" placeholder="ابحث..." />
         </div>
         <div class="form-group">
           <label>الكمية</label>
-          <input type="number" name="Inventory_Quantity" min="1" placeholder="أدخل الكمية" required />
+          <input type="number" name="Inventory_Quantity" min="1" placeholder="أدخل الكمية" />
         </div>
         <div class="form-group">
           <label>تاريخ الانتهاء</label>
@@ -248,7 +248,7 @@ function addInventoryItem() {
         </div>
         <div class="form-group">
           <label>الوحدة</label>
-          <select name="Unit_Label" required>
+          <select name="Unit_Label">
             <option value="">اختر الوحدة</option>
             <option value="علبة">علبة</option>
             <option value="شد">شد</option>
@@ -261,6 +261,9 @@ function addInventoryItem() {
   `;
   const newItem = document.createRange().createContextualFragment(template);
   inventoryItemsContainer.appendChild(newItem);
+  
+  // تحديث سمات required بعد إضافة العنصر الجديد
+  toggleVisitSections(visitTypeSelect.value);
 }
 
 /**
@@ -269,6 +272,11 @@ function addInventoryItem() {
  */
 async function handleSubmit(event) {
   event.preventDefault();
+
+  // التحقق من صلاحية النموذج قبل الإرسال
+  if (!visitForm.checkValidity()) {
+    return;
+  }
 
   showLoading(true);
 
@@ -377,7 +385,7 @@ function showWarningMessage(message) {
 document.addEventListener('DOMContentLoaded', () => {
   loadAllData(); // تحميل جميع البيانات الأولية
 
-  // إضافة أول حقل لمنتج الجرد
+  // إضافة أول حقل لمنتج الجرد بدون سمة required
   const initialInventoryItemTemplate = `
     <div class="inventory-item border border-yellow-200 p-4 rounded-lg bg-white relative">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
