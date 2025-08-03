@@ -1,9 +1,10 @@
 // عنوان URL الخاص بتطبيق الويب على Google Sheets
+// تأكد من أن هذا الرابط هو الصحيح لتطبيق الويب الخاص بك
 const GOOGLE_SHEETS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbym4rVEUWd0xkp9JglZNkZp6Hse6IxGSkHgqqKsi05GJhwe2AD95Z1-bGCv7dhWMLBqXQ/exec';
 
 // تعريف المتغيرات لتخزين البيانات المحملة
 let productsData = [];
-let inventoryProductsData = [];
+let inventoryProductsData = []; // بيانات منتجات الجرد
 let salesRepresentatives = [];
 let customersMain = [];
 let visitOutcomes = [];
@@ -86,7 +87,7 @@ async function loadAllData() {
     visitTypes = types;
 
     // تعبئة عناصر النموذج
-    populateSelect(salesRepNameSelect, salesRepresentatives);
+    populateSelect(salesRepNameSelect, salesRepresentatives, 'Sales_Rep_Name_AR');
     populateDatalist(customerListDatalist, customersMain, 'Customer_Name_AR');
     populateSelect(visitOutcomeSelect, visitOutcomes, 'Visit_Outcome_AR');
     populateSelect(visitPurposeSelect, visitPurposes, 'Visit_Purpose_AR');
@@ -138,26 +139,26 @@ function populateDatalist(datalistElement, dataArray, key) {
 
 /**
  * دالة لتبديل عرض الأقسام بناءً على نوع الزيارة.
- * @param {string} visitType - نوع الزيارة (مثال: 'جرد', 'زيارة عادية').
+ * @param {string} visitType - نوع الزيارة (مثال: 'جرد استثنائي', 'زيارة عادية').
  */
 function toggleVisitSections(visitType) {
   const normalFields = normalVisitRelatedFieldsDiv.querySelectorAll('select, input, textarea');
   const inventoryFields = inventoryItemsContainer.querySelectorAll('select, input');
 
-  if (visitType === 'جرد') {
+  if (visitType === 'جرد استثنائي') {
     normalVisitRelatedFieldsDiv.classList.add('hidden');
     normalProductSectionDiv.classList.add('hidden');
     inventorySectionDiv.classList.remove('hidden');
-    
-    // إزالة سمات required من حقول الزيارة العادية
-    normalFields.forEach(el => el.removeAttribute('required'));
+
     // إضافة سمات required لحقول الجرد
     inventoryFields.forEach(el => el.setAttribute('required', ''));
+    // إزالة سمات required من حقول الزيارة العادية
+    normalFields.forEach(el => el.removeAttribute('required'));
   } else {
     normalVisitRelatedFieldsDiv.classList.remove('hidden');
     normalProductSectionDiv.classList.remove('hidden');
     inventorySectionDiv.classList.add('hidden');
-    
+
     // إضافة سمات required لحقول الزيارة العادية
     normalFields.forEach(el => el.setAttribute('required', ''));
     // إزالة سمات required من حقول الجرد
@@ -261,7 +262,7 @@ function addInventoryItem() {
   `;
   const newItem = document.createRange().createContextualFragment(template);
   inventoryItemsContainer.appendChild(newItem);
-  
+
   // تحديث سمات required بعد إضافة العنصر الجديد
   toggleVisitSections(visitTypeSelect.value);
 }
@@ -275,6 +276,7 @@ async function handleSubmit(event) {
 
   // التحقق من صلاحية النموذج قبل الإرسال
   if (!visitForm.checkValidity()) {
+    // يمكنك إضافة رسالة تنبيه هنا إذا لزم الأمر
     return;
   }
 
@@ -286,8 +288,8 @@ async function handleSubmit(event) {
 
   data.Timestamp = new Date().toLocaleString('ar-SA', { timeZone: 'Asia/Riyadh' });
 
-  // معالجة البيانات الإضافية
-  if (data.Visit_Type_Name_AR === 'جرد') {
+  // معالجة البيانات الإضافية بناءً على نوع الزيارة
+  if (data.Visit_Type_Name_AR === 'جرد استثنائي') {
     const inventoryItems = [];
     inventoryItemsContainer.querySelectorAll('.inventory-item').forEach(item => {
       const itemData = {
@@ -300,6 +302,7 @@ async function handleSubmit(event) {
     });
     data.Inventory_Items = JSON.stringify(inventoryItems);
   } else {
+    // هذه هي الحالة التي يتم فيها إرسال بيانات الزيارة العادية
     const productsStatus = [];
     productsDisplayDiv.querySelectorAll('.product-item').forEach(product => {
       const productName = product.querySelector('span').textContent;
@@ -311,6 +314,9 @@ async function handleSubmit(event) {
     });
     data.Products_Status = JSON.stringify(productsStatus);
   }
+
+  // Debugging: عرض البيانات في الكونسول قبل إرسالها
+  console.log('Data to be sent:', data);
 
   // إرسال البيانات
   try {
